@@ -1,3 +1,28 @@
+
+![image](https://github.com/Sumanth1147/React-Redux-App/assets/122368378/2695cfa1-49cb-4890-845a-e5c3e1177617)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
